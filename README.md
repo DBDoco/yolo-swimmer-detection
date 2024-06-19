@@ -14,6 +14,10 @@
     <a href="https://mega.nz/file/gMpWQIxA#vcRiKPtP-S_pg3x3t9BEfE-P3o7KWTINwg8y6b7rjxA">
       Seminar Work
     </a>
+    <span>|</span>
+        <a href="https://universe.roboflow.com/maritime-cumkb/swimmer--swimmer/dataset/1">
+      Dataset
+    </a>
 </h3>
 </div>
 
