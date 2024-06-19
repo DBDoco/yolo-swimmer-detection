@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center">Swimmer detection application implemented in Python using the YOLO algorithm. The application includes a frontend served with a simple HTTP server and a Flask server that utilizes the model to detect swimmers in images or videos.</h4>
+<h4 align="center">Swimmer detection application implemented in Python using the <a href="https://github.com/ultralytics/yolov5">YOLO algorithm</a>. The application includes a frontend served with a simple HTTP server and a <a href="https://flask.palletsprojects.com/en/3.0.x/">Flask server</a> that utilizes the model to detect swimmers in images or videos.</h4>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ5MjlvbXBrNnl1amV3ZGRma3M0N2h2MmJ0dGxveDlpN2oyYjkyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5yfZXty3v88Id2SxSh/giphy.gif" alt="swimmer detection" />
