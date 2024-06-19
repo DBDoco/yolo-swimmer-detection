@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>File Upload</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="upload-box" id="upload-box">
+        Drag and drop a file here or click to upload
+        <form id="upload-form" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" id="file-input" style="display:none;" />
+        </form>
+    </div>
+
+    <div class="file-display" id="file-display">
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

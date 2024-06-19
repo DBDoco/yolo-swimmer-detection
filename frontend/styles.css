@@ -1,0 +1,19 @@
+.upload-box {
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    margin: 50px auto;
+}
+
+.file-display {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.file-display img, .file-display video {
+    max-width: 100%;
+    height: auto;
+}
