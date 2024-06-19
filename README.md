@@ -35,7 +35,7 @@
 
 Clone this repository
 ```bash
-$ git clone https://github.com/DBDoco/swimmer-detection.git
+$ git clone https://github.com/DBDoco/yolo-swimmer-detection.git
 ```
 
 Install required libraries
